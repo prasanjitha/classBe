@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Classabe</string>
+    <string name="facebook_app_id">2866079846996688</string>
+<string name="fb_login_protocol_scheme">fb2866079846996688</string>
+
+</resources>

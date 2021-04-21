@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "162551049670",
+    "project_id": "eeshop-4347d",
+    "storage_bucket": "eeshop-4347d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162551049670:android:8d7ea77fa0c5df7fb056c7",
+        "android_client_info": {
+          "package_name": "com.alamud.classbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162551049670-nktpsauq4oppftnj1bke4vdd35t5271s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtHFvfSBGn5cBGY91oq3cvlLHLQRKhfPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162551049670-nktpsauq4oppftnj1bke4vdd35t5271s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162551049670:android:a4ce35a8c6a4698ab056c7",
+        "android_client_info": {
+          "package_name": "com.nirmal.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162551049670-nktpsauq4oppftnj1bke4vdd35t5271s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtHFvfSBGn5cBGY91oq3cvlLHLQRKhfPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162551049670-nktpsauq4oppftnj1bke4vdd35t5271s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
